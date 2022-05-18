@@ -1,5 +1,7 @@
 federated-ml-health
 
+Based on the code published for https://www.nature.com/articles/s41746-021-00489-2 and adjusts for the *AI in biomedical informatics* class.
+
 This colab implements side-by-side comparison of models and their interpretations trained in a centralized machine learning (a.k.a. classical) way vs. the federated (distributed) way. Specifically, we concentrate on binary inference problems and evaluate several approaches: 
 
 1.   regression models trained in a traditional way using various optimizers on centralized datasets
